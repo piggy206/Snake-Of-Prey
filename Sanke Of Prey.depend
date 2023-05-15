@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1683745695 source:f:\sanke of prey\gallery.cpp
+	"Gallery.h"
+
+1683745695 f:\sanke of prey\gallery.h
+	<vector>
+	<SDL.h>
+	"painter.h"
+
+1683745694 f:\sanke of prey\painter.h
+	<string>
+	<SDL.h>
+
+1584205420 source:f:\sanke of prey\main.cpp
+	<iostream>
+
+1683745695 source:f:\sanke of prey\painter.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	"painter.h"
+
+1683745695 source:f:\sanke of prey\playground.cpp
+	<vector>
+	<cassert>
+	<cstdlib>
+	"PlayGround.h"
+
+1683745695 f:\sanke of prey\playground.h
+	<vector>
+	"Snake.h"
+	"Position.h"
+
+1683745695 f:\sanke of prey\snake.h
+	<queue>
+	"Position.h"
+
+1683745695 f:\sanke of prey\position.h
+
+1683745694 source:f:\sanke of prey\snake.cpp
+	"Snake.h"
+	"PlayGround.h"
+
+1683745695 source:f:\snake of prey\gallery.cpp
+	"Gallery.h"
+
+1683745695 f:\snake of prey\gallery.h
+	<vector>
+	<SDL.h>
+	"painter.h"
+
+1683745694 f:\snake of prey\painter.h
+	<string>
+	<SDL.h>
+
+1683746176 source:f:\snake of prey\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	<SDL.h>
+	<SDL_image.h>
+	"painter.h"
+	"PlayGround.h"
+	"Gallery.h"
+
+1683745695 source:f:\snake of prey\painter.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	"painter.h"
+
+1683751475 source:f:\snake of prey\playground.cpp
+	<vector>
+	<cassert>
+	<cstdlib>
+	"PlayGround.h"
+
+1683745695 f:\snake of prey\playground.h
+	<vector>
+	"Snake.h"
+	"Position.h"
+
+1683745695 f:\snake of prey\snake.h
+	<queue>
+	"Position.h"
+
+1683745695 f:\snake of prey\position.h
+
+1683745694 source:f:\snake of prey\snake.cpp
+	"Snake.h"
+	"PlayGround.h"
+
+1683288137 f:\libraries\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
